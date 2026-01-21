@@ -40,3 +40,9 @@
 
 ## 📫 Contact
 - 作成中...
+
+---
+
+## 🎨 Credits  
+This icon was generated using ChatGPT.
+本リポジトリのアイコンは ChatGPT によってデザインされたものです。
