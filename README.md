@@ -44,5 +44,4 @@
 ---
 
 ## 🎨 Credits  
-This icon was generated using ChatGPT.
-本リポジトリのアイコンは ChatGPT によってデザインされたものです。
+- This icon was generated using ChatGPT.
