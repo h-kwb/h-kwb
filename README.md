@@ -25,9 +25,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h-kwb&layout=compact&theme=tokyonight)
 
 ## 🧑‍💻 About Me
-- Java / Spring Boot を中心にバックエンドを学習中
+- Java / Python / Spring Boot / HTML / CSS 等を学習中
 - Web アプリケーション開発に興味あり  
-- Django / Python も扱えるフルスタック志向を目指しています  
+- フルスタック志向を目指し様々な言語を勉強しています  
 - 自分でやってみようを中心に思いついたことを試し中  
 
 ## 🌱 Currently Learning
