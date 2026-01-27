@@ -20,10 +20,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=h-kwb&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h-kwb&layout=compact&theme=tokyonight)
-
 ## 🧑‍💻 About Me
 - Java / Python / Spring Boot / HTML / CSS 等を学習中
 - Web アプリケーション開発に興味あり  
