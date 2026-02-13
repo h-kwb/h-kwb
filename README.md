@@ -21,8 +21,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=h-kwb&layout=compact&theme=tokyonight](https://github-readme-stats-n0lgpm0bv-h-kwbs-projects.vercel.app/api/top-langs/?username=h-kwb&layout=compact&theme=tokyonight
-)
+![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=h-kwb&layout=compact&theme=tokyonight](https://github-readme-stats-n0lgpm0bv-h-kwbs-projects.vercel.app/api/top-langs/?username=h-kwb&layout=compact&theme=tokyonight))
 
 ## 🧑‍💻 About Me
 - Java / Python / Django / Spring Boot / HTML / CSS 等を学習中
