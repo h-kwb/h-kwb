@@ -12,7 +12,6 @@
 ### 🧰 Frameworks / Libraries
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
@@ -20,12 +19,18 @@
 
 ---
 
-## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats-n0lgpm0bv-h-kwbs-projects.vercel.app/api/top-langs/?username=h-kwb&layout=compact&theme=tokyonight)
+## 🧰 Tech Stack Overview
+
+| Category | Tools |
+|---------|-------|
+| Languages | Java / Python / JavaScript |
+| Frameworks | Spring Boot / Django |
+| Databases | MySQL / PostgreSQL |
+| Others | AWS / Git |
 
 ## 🧑‍💻 About Me
 - Java / Python / Django / Spring Boot / HTML / CSS 等を学習中
-- Web アプリケーション開発に興味あり  
+- Web アプリケーション開発に興味があります  
 - フルスタック志向を目指し様々な言語を勉強しています  
 - 自分でやってみようを中心に思いついたことを試し中  
 
